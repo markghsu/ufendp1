@@ -1,0 +1,11 @@
+* {
+	border: 1px solid red !important; 
+}
+/* Grid for now */
+.grid {
+	width: 100%;
+	max-width: 960px;
+}
+.row {
+	width: 100%;
+}
